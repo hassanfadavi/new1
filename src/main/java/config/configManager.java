@@ -24,7 +24,7 @@ static {
      * 2. An environment-specific configuration file, determined by the "env" property in the base config.
      * The configuration files are loaded into the `properties` object.
      */
-    private static void loadProperties(){
+    public static void loadProperties(){
         try{
             // Load the base configuration from "config.properties"
             //read,load and close
@@ -81,6 +81,7 @@ static {
      *
      * @return the environment (e.g., DEV, PROD) as an enum
      */
+
 
  public static Environment getEnvirnonmet(){
     return Environment.valueOf(properties.getProperty("env").toUpperCase());
