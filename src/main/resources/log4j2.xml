@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="WARN">
+
+
     <!-- Console Appender for Log4j -->
     <Appenders>
         <!-- Console Appender: Outputs logs to the console -->
@@ -12,6 +14,7 @@
             <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n"/>
         </File>
     </Appenders>
+
 
     <!-- Loggers Configuration -->
     <Loggers>
@@ -27,4 +30,6 @@
             <AppenderRef ref="FileLogger"/>
         </Logger>
     </Loggers>
+
+
 </Configuration>
