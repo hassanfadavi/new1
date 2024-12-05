@@ -10,13 +10,11 @@ import java.security.PublicKey;
 
 public class Dashboard_PF {
 
-public WebDriver driver;
-
-
+     public WebDriver driver;
 
 
 //    @FindBy(xpath = "//span[text()='Hello, sign in']")
-    public  WebElement signIn;
+    public final   WebElement signIn;
 
    //constructor
     public Dashboard_PF(WebDriver driver){

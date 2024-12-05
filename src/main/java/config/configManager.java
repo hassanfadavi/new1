@@ -11,6 +11,12 @@ import java.util.Properties;
 
 public class ConfigManager {
 
+//
+//    public static void main(String[] args) {
+//        ConfigManager.loadProperties();
+//    }
+
+
 
     public static final Properties properties=new Properties();
     public static final Logger logger= LogManager.getLogger(ConfigManager.class);
@@ -31,6 +37,7 @@ static {
             FileInputStream baseConfig =new FileInputStream("src/main/resources/config/config.properties");
             properties.load(baseConfig);
             baseConfig.close();
+//            System.out.println(properties);  //written by hassan
 
 
             // Determine the environment (e.g., DEV, PROD) from the "env" property in the base config
@@ -42,8 +49,11 @@ static {
             properties.load(envConfig);
             envConfig.close();
 
+
             // Log the successful loading of configuration for the current environment
-           logger.info("Configuration loaded for environment"+env);
+           logger.info("Configuration loaded for environment "+env);
+
+
 
 
         }catch (IOException e){

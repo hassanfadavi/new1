@@ -32,8 +32,6 @@ public class BaseTest {
         logger.info("Started test with URL {}", ConfigManager.getProperty("baseUrl"));
     }
 
-
-
     /**
      * This method runs after each test method. It quits the WebDriver and closes the browser.
      */
@@ -43,4 +41,5 @@ public class BaseTest {
 //         Quit the WebDriver and close the browser window
         DriverFactory.quitDriver();
     }
+
 }

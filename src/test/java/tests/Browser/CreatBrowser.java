@@ -5,43 +5,41 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
 
-public class CreatBrowser {
+public class CreatBrowser extends  Base{
 
-    public static void main(String[] args) {
-        initializeWebDriver();
-        driver.quit();
-    }
+
    public   static WebDriver driver;
-
   public static WebDriver initializeWebDriver() {
-
        String browser=ConfigManager.getProperty("browser").toUpperCase();
-
         switch (browser) {
             case "CHROME":
-                return driver = new ChromeDriver();
+              driver = new ChromeDriver();
+              break;
 
             case "FIREFOX":
-                return driver = new FirefoxDriver();
+                  driver = new FirefoxDriver();
+                  break;
 
             case "EDGE":
-                return driver = new EdgeDriver();
+                  driver = new EdgeDriver();
+                  break;
 
             default:
                 throw new IllegalArgumentException("Invalid");
+
         }
+        return driver;
     }
+
+
+
+
+
+
 }
 
-//    if(browser.equalsIgnoreCase("chrome")) {
-//
-//        return driver = new ChromeDriver();
-//    }else if(browser.equalsIgnoreCase("firefox")){
-//        return driver = new FirefoxDriver();
-//
-//
-//    }
 
 
 

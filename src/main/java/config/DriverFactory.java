@@ -15,6 +15,9 @@ import org.openqa.selenium.safari.SafariDriver;
 public class DriverFactory {
 
 
+//    public static void main(String[] args) {
+//        DriverFactory.initializeWebDriver();
+//    }
 
     // WebDriver instance used across the test execution
     public static WebDriver driver;
@@ -34,6 +37,8 @@ public class DriverFactory {
         // Get the headless mode flag from the configuration (true or false)
         boolean isHeadless = Boolean.parseBoolean(ConfigManager.getProperty("isHeadless"));
         System.out.println("Loaded configuration with headless mode: " + isHeadless);
+
+        ConfigManager.logger.info("Configuration loaded for browser "+browser);   //written by hassan
 
         // Switch between different browser types and set up WebDriver accordingly
         switch (browser) {

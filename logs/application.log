@@ -324,3 +324,248 @@
 2024-12-02 20:38:52 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
 2024-12-02 23:43:56 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
 2024-12-02 23:44:03 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 13:45:30 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-12-03 13:57:36 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-12-03 13:59:08 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-12-03 14:02:05 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-12-03 14:07:08 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-12-03 14:10:36 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-12-03 14:12:06 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-12-03 14:13:00 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-12-03 14:15:59 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-12-03 14:37:00 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 14:37:05 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 14:39:50 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 14:39:56 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 14:40:16 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 14:40:24 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 14:41:49 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 14:41:58 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 14:46:18 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 14:46:25 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 14:48:16 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 14:48:24 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 14:54:10 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 14:54:18 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 14:55:56 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 14:56:05 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 14:56:51 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 14:56:58 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:12:10 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:12:15 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:12:22 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:12:29 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:15:17 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:15:22 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:15:32 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:15:57 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:16:06 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:17:23 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:17:33 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:25:39 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:25:47 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:27:00 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:27:11 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:29:25 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:29:32 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:29:51 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:29:56 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 15:30:05 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 15:30:14 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:27:54 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 16:28:03 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:28:12 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:30:05 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 16:30:13 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:30:26 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:31:11 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 16:31:19 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:31:24 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:40:22 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 16:40:26 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:40:35 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:42:34 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 16:42:39 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:42:45 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:46:23 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 16:46:33 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:46:51 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:56:46 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 16:56:54 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:57:05 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:57:22 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 16:57:30 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 16:57:41 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 17:05:38 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 17:05:44 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 17:05:49 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 17:06:05 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 17:06:49 INFO  ConfigManager:46 - Configuration loaded for environmentDEV
+2024-12-03 17:06:57 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 17:07:05 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:23:52 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-03 20:23:57 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:31:40 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-03 20:31:46 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:32:26 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-03 20:32:33 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:32:54 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-03 20:33:02 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:33:10 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:35:01 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-03 20:35:08 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:35:16 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:43:45 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-03 20:43:53 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:44:02 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:45:58 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-03 20:46:06 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 20:46:14 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-03 21:28:59 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-03 21:29:12 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 13:37:11 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-04 13:37:11 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-04 13:41:27 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-04 13:41:27 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-04 13:41:48 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-04 13:41:48 INFO  ConfigManager:47 - Configuration loaded for environmentDEV
+2024-12-04 13:42:16 INFO  ConfigManager:47 - Configuration loaded for environment DEV
+2024-12-04 13:42:16 INFO  ConfigManager:47 - Configuration loaded for environment DEV
+2024-12-04 13:42:36 INFO  ConfigManager:47 - Configuration loaded for environment DEV
+2024-12-04 13:42:36 INFO  ConfigManager:47 - Configuration loaded for environment DEV
+2024-12-04 13:43:30 INFO  ConfigManager:47 - Configuration loaded for environment DEV
+2024-12-04 13:43:30 INFO  ConfigManager:47 - Configuration loaded for environment DEV
+2024-12-04 13:44:52 INFO  ConfigManager:47 - Configuration loaded for environment DEV
+2024-12-04 13:44:52 INFO  ConfigManager:47 - Configuration loaded for environment DEV
+2024-12-04 13:48:08 ERROR ConfigManagerTest:41 - failed to load configurationjava.io.FileNotFoundException: src\main\resource\config\configTest.properties (The system cannot find the path specified)
+2024-12-04 13:48:42 ERROR ConfigManagerTest:41 - failed to load configurationjava.io.FileNotFoundException: src\main\resources\config\configTest.properties (The system cannot find the file specified)
+2024-12-04 14:54:23 INFO  ConfigManager:52 - Configuration loaded for environment DEV
+2024-12-04 14:54:23 INFO  ConfigManager:52 - Configuration loaded for environment DEV
+2024-12-04 14:55:50 INFO  ConfigManager:55 - Configuration loaded for environment DEV
+2024-12-04 14:57:09 INFO  ConfigManager:55 - Configuration loaded for environment TEST
+2024-12-04 14:57:34 INFO  ConfigManager:55 - Configuration loaded for environment DEV
+2024-12-04 14:57:59 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 14:57:59 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:05:41 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:05:55 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:10:54 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:16:31 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:17:53 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:18:17 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:20:12 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:20:33 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:22:01 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:22:01 INFO  ConfigManager:41 - Configuration loaded for browser EDGE
+2024-12-04 15:24:01 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:24:01 INFO  ConfigManager:41 - Configuration loaded for browser EDGE
+2024-12-04 15:24:42 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:24:42 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:25:10 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:25:10 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:26:01 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:26:01 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:26:41 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:26:41 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:27:11 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:27:11 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:27:39 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:27:39 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:28:17 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:28:17 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:28:37 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:28:37 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:29:04 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:29:04 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:30:14 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:39:05 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:39:05 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:39:53 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:39:53 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:39:55 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:39:56 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:40:04 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:40:58 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:40:58 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:41:08 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:41:11 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:41:16 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:49:15 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:49:15 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:49:22 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:49:55 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:49:55 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:49:59 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:51:44 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:51:44 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:51:51 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:51:51 INFO  BaseTest:43 - I_am_on_the_amazon_web_page
+2024-12-04 15:51:53 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:51:59 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:52:03 INFO  BaseTest:43 - I_am_on_the_amazon_web_page
+2024-12-04 15:55:06 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 15:55:06 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:55:14 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:55:15 INFO  BaseTest:43 - I am on the amazon web page
+2024-12-04 15:55:16 INFO  BaseTest:51 - I click on signIn button
+2024-12-04 15:55:17 INFO  BaseTest:57 - I click on Create amazon account button
+2024-12-04 15:55:17 INFO  BaseTest:63 - I will enter username as value for your name field
+2024-12-04 15:55:17 INFO  BaseTest:78 - I will enter valid {string} as input
+2024-12-04 15:55:17 INFO  BaseTest:85 - I will enter password as a valid password value for password field
+2024-12-04 15:55:18 INFO  BaseTest:91 - I will  re-enter-password as a valid password value
+2024-12-04 15:55:18 INFO  BaseTest:97 - I click on continue button
+2024-12-04 15:55:18 INFO  ConfigManager:41 - Configuration loaded for browser CHROME
+2024-12-04 15:55:26 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 15:55:27 INFO  BaseTest:43 - I am on the amazon web page
+2024-12-04 15:55:29 INFO  BaseTest:51 - I click on signIn button
+2024-12-04 15:55:30 INFO  BaseTest:57 - I click on Create amazon account button
+2024-12-04 15:55:30 INFO  BaseTest:63 - I will enter username as value for your name field
+2024-12-04 15:55:30 INFO  BaseTest:78 - I will enter valid {string} as input
+2024-12-04 15:55:30 INFO  BaseTest:85 - I will enter password as a valid password value for password field
+2024-12-04 15:55:30 INFO  BaseTest:91 - I will  re-enter-password as a valid password value
+2024-12-04 15:55:31 INFO  BaseTest:97 - I click on continue button
+2024-12-04 16:29:40 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:30:19 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:30:36 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:31:06 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:31:55 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:32:13 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:33:04 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:33:04 INFO  ConfigManager:41 - Configuration loaded for browser EDGE
+2024-12-04 16:33:09 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-12-04 16:33:30 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:34:33 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:34:52 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:36:06 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:36:06 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:36:22 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:36:22 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:37:17 INFO  ConfigManager:53 - Configuration loaded for environment DEV
+2024-12-04 16:37:17 INFO  ConfigManager:41 - Configuration loaded for browser EDGE
+2024-12-04 19:13:22 INFO  ConfigManager:55 - Configuration loaded for environment DEV
+2024-12-04 19:13:22 INFO  ConfigManager:55 - Configuration loaded for environment DEV
+2024-12-04 19:14:05 INFO  ConfigManager:55 - Configuration loaded for environment DEV
+2024-12-04 19:14:05 INFO  ConfigManager:55 - Configuration loaded for environment DEV
+2024-12-04 19:37:31 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 19:53:55 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 19:54:09 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 19:55:02 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 19:55:53 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 19:57:19 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 19:57:35 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:02:19 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:03:03 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:03:20 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:03:52 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:04:18 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:05:17 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:14:50 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:17:49 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:17:50 INFO  ConfigManager:41 - Configuration loaded for browser EDGE
+2024-12-04 20:19:52 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:19:53 INFO  ConfigManager:41 - Configuration loaded for browser EDGE
+2024-12-04 20:22:27 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:22:27 INFO  ConfigManager:41 - Configuration loaded for browser EDGE
+2024-12-04 20:25:32 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:25:32 INFO  ConfigManager:41 - Configuration loaded for browser EDGE
+2024-12-04 20:27:04 INFO  ConfigManager:54 - Configuration loaded for environment DEV
+2024-12-04 20:27:04 INFO  ConfigManager:41 - Configuration loaded for browser EDGE
