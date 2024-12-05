@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 public class CreatBrowser extends  Base{
 
-
+//
    public   static WebDriver driver;
   public static WebDriver initializeWebDriver() {
        String browser=ConfigManager.getProperty("browser").toUpperCase();
